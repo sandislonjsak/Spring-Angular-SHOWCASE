@@ -1,0 +1,2 @@
+rootProject.name = 'reallytinyurl-backend'
+include 'reallytinyurl-backend', 'reallytinyurl-frontend'
